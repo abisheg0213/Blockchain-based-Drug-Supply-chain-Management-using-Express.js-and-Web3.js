@@ -1,0 +1,6 @@
+Hospital id:1
+Drug id:121
+Patient id:2
+Doctor id:3
+Required amount:
+5
